@@ -1,3 +1,74 @@
 body{
-     background-color: lightgoldenrodyellow;
+     background-color:rgba(0, 110, 255, 0.473);
+     margin: 0;
+     font-family:'Fredoka One', cursive;
+     font-size: 20px;
+     line-height: 30px;
+}
+header{
+    background-color: lightpink;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1,h2{
+    font-family:'Fredoka One', cursive;
+    font-weight: 900;
+    
+}
+header h1{
+    color: white;
+    font-size: 60px;
+    
+
+}
+header img{
+    border-radius: 165px;
+    width: 300px;
+    border: 15px solid lightgoldenrodyellow;
+
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    
+}
+main img{
+    max-width: 100%;
+    border-radius: 165px;
+    width: 800px;
+    border: 15px solid lightgoldenrodyellow;
+}
+ul img{
+    max-width: 100%;
+    border-radius: 165px;
+    width: 300px;
+    border: 15px solid lightgoldenrodyellow;
+
+}
+
+h2{
+    font-size: 35px;
+    color: lightgoldenrodyellow;
+}
+a{
+    color: lightgoldenrodyellow;
+    font-family:'Fredoka One', cursive;
+}
+a:hover{
+    color: lightpink;
+}
+footer{
+    background-color: lightpink;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+p.caption{
+    text-align: center;
+    font-style: italic;
+    color: lightpink;
+    margin-top: 0;
 }
